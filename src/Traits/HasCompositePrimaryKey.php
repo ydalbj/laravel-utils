@@ -1,5 +1,5 @@
 <?php
-namespace Ydalbj\LaravelUtils;
+namespace Ydalbj\LaravelUtils\Traits;
 
 use Illuminate\Database\Eloquent\Builder;
 
